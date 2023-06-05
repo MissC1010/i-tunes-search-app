@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/i-tunes-search-app/static/css/main.d1c81c5e.css",
+    "main.js": "/i-tunes-search-app/static/js/main.0a9bce4c.js",
+    "static/js/787.5e4b8612.chunk.js": "/i-tunes-search-app/static/js/787.5e4b8612.chunk.js",
+    "index.html": "/i-tunes-search-app/index.html",
+    "main.d1c81c5e.css.map": "/i-tunes-search-app/static/css/main.d1c81c5e.css.map",
+    "main.0a9bce4c.js.map": "/i-tunes-search-app/static/js/main.0a9bce4c.js.map",
+    "787.5e4b8612.chunk.js.map": "/i-tunes-search-app/static/js/787.5e4b8612.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1c81c5e.css",
+    "static/js/main.0a9bce4c.js"
+  ]
+}
