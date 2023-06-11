@@ -17,7 +17,9 @@ function App() {
 
   // Define a function to handle search queries
   const handleSearch = (query, mediaType) => {
-    fetch(`http://localhost:5000/search?term=${query}&media=${mediaType}`)
+    fetch(
+      `https://react-itunes-server.herokuapp.com/search?term=${query}&media=${mediaType}`
+    )
       .then((response) => response.json())
       .then((data) => setSearchResults(data.data))
       .catch((error) => console.log(error));
