@@ -8,7 +8,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-// Use helmet middleware to set security-related HTTP response headers
+// Use helmet middleware to set security-related HTTP response headers.
 app.use(helmet());
 
 // Set a constant BASE_URL to the iTunes Search API URL
